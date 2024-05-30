@@ -9,17 +9,17 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=plastic&logo=pythonanywhere&logoColor=151515) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rubenciio&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenciio&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rubenciio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenciio&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 [![](https://visitcount.itsvg.in/api?id=Rubenciio&icon=0&color=6)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 
   ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/RubencioEsP)<br>
-
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/RubencioEsP)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=plastic&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Rubenciio)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
