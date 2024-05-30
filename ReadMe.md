@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on works of personal growth.<br>👯 I’m looking to collaborate on any project, mainly python but also I'm searching for develop web page projects.<br>🤝 I’m looking for help with anyone, and if we have benefit try to colaborate with any ONG.<br>🌱 I’m currently learning more of Python, HTML and CSS also I'm satrting with JavaScript.<br>💬 Ask me about anything that you need, about my knowledge.<br>⚡ I like to make interactive work that makes it fun for the user.<br>📫 How to reach me osnirula1@gmail.com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_rubenciio.17) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@RUBENCIIO) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rubenciio_17) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ruben._.perez) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@Rubencio_EsP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@user-zl2qo5kq4g) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@Negative-Pumpkin-931) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/@Rubenciio)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://instagram.com/@_rubenciio.17) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@RUBENCIIO) [![X](https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white)](https://x.com/@Rubenciio_17) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=TikTok&logoColor=white)](https://tiktok.com/@@ruben._.perez) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=plastic&logo=Twitch&logoColor=white)](https://twitch.tv/@Rubencio_EsP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)](https://youtube.com/@@user-zl2qo5kq4g) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=plastic&logo=Reddit&logoColor=white)](https://reddit.com/user/@Negative-Pumpkin-931) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/@Rubenciio)
 
 
 # 💻 Tech Stack:
@@ -19,7 +19,7 @@
 ---
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/RubencioEsP) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/RubencioEsP)<br>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
