@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on works of personal growth.<br>👯 I’m looking to collaborate on any project, mainly python but also I'm searching for develop web page projects.<br>🤝 I’m looking for help with anyone, and if we have benefit try to colaborate with any ONG.<br>🌱 I’m currently learning more of Python, HTML and CSS also I'm satrting with JavaScript.<br>💬 Ask me about anything that you need, about my knowledge.<br>⚡ I like to make interactive work that makes it fun for the user.<br>📫 How to reach me osnirula1@gmail.com
+🔭 I’m currently working on works of personal growth.<br>
+👯 I’m looking to collaborate on any project, mainly python but also I'm searching for develop web page projects.<br>
+🤝 I’m looking for help with anyone, and if we have benefits, I will try to collaborate with any ONG.<br>
+🌱 I’m currently learning more of Python, HTML and CSS also I'm satrting with JavaScript.<br>
+💬 Ask me about anything that you need, about my knowledge.<br>
+⚡ I like to make interactive work that makes it fun for the user.<br>
+📫 How to reach me: osnirula1@gmail.com
 
 
 ## 🌐 Socials:
@@ -16,10 +22,11 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/RubencioEsP)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=plastic&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Rubenciio)
+
   
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
