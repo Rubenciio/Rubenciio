@@ -24,7 +24,7 @@
 
 
 ## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/RubencioEsP)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/RubencioEsP)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=plastic&style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Rubenciio)
 
   
