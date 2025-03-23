@@ -5,7 +5,7 @@
 🌱 I’m currently learning more of Python, HTML and CSS also I'm satrting with JavaScript.<br>
 💬 Ask me about anything that you need, about my knowledge.<br>
 ⚡ I like to make interactive work that makes it fun for the user.<br>
-📫 How to reach me: osnirula1@gmail.com
+📫 How to reach me: rpmoreno08@gmail.com
 
 
 ## 🌐 Socials:
